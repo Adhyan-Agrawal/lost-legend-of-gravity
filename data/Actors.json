@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"isaac newton","characterIndex":0,"characterName":"Isaac Newton","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Isaac newton","traits":[],"initialLevel":1,"maxLevel":99,"name":"Newton","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"marc4","characterIndex":0,"characterName":"marc2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"marc","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alex","nickname":"","note":"","profile":"Brother of Newton"}
+]
